@@ -1,4 +1,4 @@
-# AMP-Forge-VAE
+# DeNovo-AMP-Discovery
 
 A deep learning framework for de novo antimicrobial peptide (AMP) discovery using Variational Autoencoders (VAEs), physicochemical feature engineering, and machine learning-based screening.
 
